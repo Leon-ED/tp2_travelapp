@@ -1,0 +1,44 @@
+[
+  {
+    "supporter": "Christian",
+    "name" : "Busan",
+    "latitude": 35.1645701,
+    "longitude": 129.0015886
+  },
+  {
+    "supporter": "Anthonin",
+    "name": "Québec",
+    "latitude": 46.8572909,
+    "longitude": -71.4853411
+  },
+  {
+    "supporter": "Romain",
+    "name": "Munich",
+    "latitude": 48.1550039,
+    "longitude": 11.4716246
+  },
+  {
+    "supporter": "Ethan",
+    "name": "San Francisco",
+    "latitude": 37.7577627,
+    "longitude": -122.4727052
+  },
+  {
+    "supporter": "Yael",
+    "name": "Incheon",
+    "latitude": 37.4646655,
+    "longitude": 126.6041386
+  },
+  {
+    "supporter": "Aurélien",
+    "name": "Los Angeles",
+    "latitude": 34.0207289,
+    "longitude": -118.692602
+  },
+  {
+    "supporter": "Elody",
+    "name": "Kyoto",
+    "latitude": 35.0983962,
+    "longitude": 135.578442
+  }
+]
